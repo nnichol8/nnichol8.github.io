@@ -1,0 +1,46 @@
+<!Doctype html>
+<html lang="eng">
+	<head>
+		<title>Nicole</title>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<!-- Latest compiled and minified CSS -->
+		<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+
+		<!-- jQuery library -->
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+
+		<!-- Latest compiled JavaScript -->
+		<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+
+	</head>
+	<body>
+
+		<div class="container">
+			<h1>My First Bootstrap Page</h1>
+
+			<div class="row">
+				<div class="col-md-4">
+					<p>Some <small>text</small></p> <!-- makes text small -->
+				</div>
+
+				<div class="col-md-4">
+					<p>Some skills of mine:</p>
+					<dl> <!-- Builds a list with sub lists -->
+						<dt>Bootstrap</dt>
+							<dd class="text-success">- All basic skills</dd>
+						<dt>SQL</dt>
+							<dd class="text-warning">- Intermediate</dd>
+					</dl>
+					<img src="apple products.png" class="img-rounded" alt="apple products" width="304" height="236">
+				</div>
+
+				<div class="col-md-4">
+					<pre>Some text     just needs to be      spaced out</pre>
+				</div>
+				
+			</div>	
+		</div>
+	</body>
+</html>
