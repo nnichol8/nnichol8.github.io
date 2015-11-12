@@ -1,11 +1,11 @@
 body {
-	background-image: url(GitHub_Site/picjumbo.com_HNCK4530.jpg);
+	background-image: url(![background](https://picjumbo.imgix.net/HNCK4530.jpg?q=40&w=1650&sharp=30));
 	background-size: contain;
 }
 
 footer {
 	background-color:#FFFFFF;
-	margin-top: 20px;
+	margin-top:20px;
 }
 
 .col-md-3 {
