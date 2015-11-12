@@ -1,0 +1,30 @@
+body {
+	background-image: url(GitHub_Site/picjumbo.com_HNCK4530.jpg);
+	background-size: contain;
+}
+
+footer {
+	background-color:#FFFFFF;
+	margin-top: 20px;
+}
+
+.col-md-3 {
+	background-color: #FFFFFF;
+}
+
+.img-thumbnail {
+	margin: 10px;
+}
+
+h1 {
+	font-family:Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+	padding-top: 60px;
+	padding-bottom: 30px;
+	text-align:left;
+}
+
+#fav_things {
+	background-color:#FFFFFF;
+	text-align:center;
+	padding-top:10px;
+}
