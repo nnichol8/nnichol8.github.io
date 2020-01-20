@@ -266,6 +266,20 @@ header {
     border-bottom: 2px solid #e67e22; /* for this to work, must have a transparent border bottom on link state*/
 }
 
+/* mobile nav*/
+.mobile-nav-icon {
+    float: right;
+    margin-top: 30px;
+    cursor: pointer;
+    display: none;
+}
+
+.mobile-nav-icon i {
+    font-size: 200%;
+    color: #fff;
+}
+
+
 /* sticky nav*/
 
 .sticky {
