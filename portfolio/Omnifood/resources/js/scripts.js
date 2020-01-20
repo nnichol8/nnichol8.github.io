@@ -11,6 +11,8 @@ $(document).ready(function() {
           offset: '60px;'
       });   
     
+    
+    
     /* scroll on buttons */
      $('.js--scroll-to-plan').click(function () {
          $('html, body').animate({scrollTop: $('.js--section-plans').offset().top}, 1000);
@@ -58,5 +60,11 @@ $(document).ready(function() {
           }
         }
       });
+    
+    /******************* Animations on scroll ***************/
+    
+    $('.js--wp-1').waypoint(function(direction) {
+        $('.js--wp-1').addClass('animated fadeIn');
+    })
 
 });
