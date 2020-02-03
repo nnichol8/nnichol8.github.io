@@ -1,8 +1,10 @@
 body {
-/*
-	background-color: grey;
+	background-color: #ccc;
 	background-size: contain;
-*/
+}
+
+/* portfolio landing page body tag */
+#portfolio-lp {
     background: url('../portfolio/img/eye_img.jpg') no-repeat center center/cover;
     height: 100vh;
 }
