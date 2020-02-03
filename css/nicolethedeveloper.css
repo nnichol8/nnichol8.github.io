@@ -1,6 +1,10 @@
 body {
+/*
 	background-color: grey;
 	background-size: contain;
+*/
+    background: url('../portfolio/img/eye_img.jpg') no-repeat center center/cover;
+    height: 100vh;
 }
 
 footer {
