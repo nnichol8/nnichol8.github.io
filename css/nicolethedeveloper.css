@@ -6,7 +6,7 @@ body {
 /* portfolio landing page body tag */
 #portfolio-lp {
     background: url('../portfolio/img/macbook-pro.jpg') no-repeat center center/cover;
-    height: 100vh;
+/*    height: 100vh;*/
 }
 
 footer {
