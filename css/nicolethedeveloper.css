@@ -55,5 +55,11 @@ h1 {
 }
 
 #my-work a {
+    display: inline-block;
     text-decoration: none;
+    color: #fff;  
+}
+
+#my-work a:hover {
+    color: #f4f4f4;
 }
