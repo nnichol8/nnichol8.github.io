@@ -54,10 +54,11 @@ h1 {
 .my-work {
     float: right;
     margin-top: 8rem;
+    margin-left: 10rem;
 }
 
 .my-sites {
-    display: inline-block;
+    display: block;
     text-decoration: none;
     color: #fff; 
     padding-top: 100px;
