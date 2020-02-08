@@ -54,13 +54,13 @@ h1 {
     float: right;
 }
 
-#my-sites {
+.my-sites {
     display: inline-block;
     text-decoration: none;
     color: #fff; 
     padding-top: 100px;
 }
 
-#my-sites:hover {
+.my-sites:hover {
     color: #f4f4f4;
 }
