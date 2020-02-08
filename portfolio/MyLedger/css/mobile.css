@@ -42,7 +42,6 @@ column and give items without a height a height */
 
     #showcase .showcase-content {
         top: 110px; /* fixes the overlay since navbar got longer */
-        margin-top: -2rem;
     }
 
     #who {
