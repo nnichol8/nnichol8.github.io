@@ -57,7 +57,8 @@ h1 {
 #my-work a {
     display: inline-block;
     text-decoration: none;
-    color: #fff;  
+    color: #fff; 
+    padding-top: 100px;
 }
 
 #my-work a:hover {
