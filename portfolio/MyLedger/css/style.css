@@ -167,6 +167,7 @@ p {
 
 #who div {
     flex: 1;
+    flex-basis: 50%;
 }
 
 #who .who-img {
@@ -191,6 +192,7 @@ p {
 #contact .map,
 #contact .contact-form {
     flex: 1;
+    flex-basis: 50%;
 }
 
 #contact .contact-form .form-group {

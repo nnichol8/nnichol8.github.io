@@ -10,13 +10,6 @@ body {
 	background-size: contain;
 }
 
-/* portfolio landing page body tag */
-#portfolio-lp {
-    background: url('../portfolio/img/macbook-pro.jpg') no-repeat center center/cover;
-    height: 100vh;
-    padding: 2rem;
-}
-
 footer {
 	background-color:#FFFFFF;
 	margin-top:20px;
@@ -41,4 +34,25 @@ h1 {
 	background-color:#FFFFFF;
 	text-align:center;
 	padding-top:10px;
+}
+
+/************************************** Portfolio Styling **************************/
+
+/* portfolio landing page body tag */
+#portfolio-lp {
+    background: url('../portfolio/img/macbook-pro.jpg') no-repeat center center/cover;
+    height: 100vh;
+    padding: 2rem;
+}
+
+#portfolio-heading-main {
+    float: right;
+}
+
+#my-work {
+    float: right;
+}
+
+#my-work a {
+    text-decoration: none;
 }

@@ -13,7 +13,7 @@ column and give items without a height a height */
 
 /* Align icon to left */
 #what .items .item {
-    display: flex;
+    display: flex; 
     text-align: left;
 }
 
@@ -22,6 +22,15 @@ column and give items without a height a height */
     margin-right: 1.3rem;
     align-self: center;
     margin-bottom: 0;
+}
+/* position h3 */
+#what .items .item h3 {
+    margin-right: 1.3rem;
+    align-self: center;
+    margin-bottom: 0;
+}
+#what .items .item p {
+    display: none;
 }
 
 /* smartphones */
@@ -52,6 +61,10 @@ column and give items without a height a height */
         display: none;
     }
 
+    #who .who-text h2 {
+        text-align: center;
+    }
+
     #clients .items img {
         width: 80%;
     }
@@ -67,5 +80,10 @@ column and give items without a height a height */
     #contact .map {
         height: 200px;
         border-top: 4px solid #333;
+    }
+
+    #contact .contact-form h2,
+    #contact .contact-form p {
+        text-align: center;
     }
 }
