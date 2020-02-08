@@ -28,6 +28,7 @@ h1 {
 	padding-top: 60px;
 	padding-bottom: 30px;
 	text-align:left;
+    font-size: 4rem;
 }
 
 #fav_things {
@@ -50,8 +51,9 @@ h1 {
     color: #fff
 }
 
-#my-work {
+.my-work {
     float: right;
+    margin-top: 8rem;
 }
 
 .my-sites {
