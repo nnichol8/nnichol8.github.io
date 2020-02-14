@@ -222,6 +222,10 @@ h6 {
     margin-right: .5rem;
 }
 
+#main-nav .social i:hover {
+    color: var(--primary-color);
+}
+
 
 
 
