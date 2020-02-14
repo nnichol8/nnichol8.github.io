@@ -62,4 +62,8 @@
         grid-row: 1 /* resent span */
     }
 
+    .l-heading {
+        font-size: 2rem;
+    }
+
 }
