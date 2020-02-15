@@ -64,7 +64,8 @@ h1 {
     display: block;
     padding: 20px;
     text-align: center;
-    color: #fff
+    color: #fff;
+    text-decoration: none;
 }
 
 /* portfolio landing page body tag */
