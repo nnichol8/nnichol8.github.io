@@ -41,7 +41,6 @@ h1 {
 
 /*navigation*/
 #main-nav {
-    background: #fff;
     position: sticky;
     top: 0;
     z-index: 2;
@@ -55,6 +54,7 @@ h1 {
 #main-nav .container ul {
     float: right;
     list-style: none;
+    border: none;
 }
 
 #main-nav .container ul li {
@@ -90,7 +90,6 @@ h1 {
     display: block;
     text-decoration: none;
     color: #fff; 
-    padding-top: 100px;
     font-size: 1.5rem;
 }
 
