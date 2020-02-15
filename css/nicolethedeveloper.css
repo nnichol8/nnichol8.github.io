@@ -39,6 +39,14 @@ h1 {
 
 /************************************** Portfolio Styling **************************/
 
+/*navigation*/
+#main-nav {
+    background: #fff;
+    position: sticky;
+    top: 0;
+    z-index: 2;
+}
+
 /* portfolio landing page body tag */
 #portfolio-lp {
     background: url('../portfolio/img/macbook-pro.jpg') no-repeat center center/cover;
