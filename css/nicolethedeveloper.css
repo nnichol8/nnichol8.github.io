@@ -83,7 +83,7 @@ h1 {
 
 .my-work {
     float: right;
-    margin-top: 8rem;
+    margin-top: 7rem;
     margin-left: 10rem;
 }
 
@@ -91,7 +91,7 @@ h1 {
     display: block;
     text-decoration: none;
     color: #fff; 
-    font-size: 1.5rem;
+    font-size: 2rem;
 }
 
 .my-sites:hover {
