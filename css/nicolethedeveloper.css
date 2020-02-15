@@ -47,6 +47,15 @@ h1 {
     z-index: 2;
 }
 
+#main-nav .container {
+    display: flex;
+    background: rbga(0,0,0,0.5);
+}
+
+#main-nav .container ul li a {
+    list-style: none;
+}
+
 /* portfolio landing page body tag */
 #portfolio-lp {
     background: url('../portfolio/img/macbook-pro.jpg') no-repeat center center/cover;
